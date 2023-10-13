@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../farming-application"
+		},
+		{
+			"name": "anaconda-environment-setup",
+			"path": "."
+		}
+	],
+	"settings": {
+		"r.lsp.promptToInstall": false
+	}
+}
